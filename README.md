@@ -53,6 +53,7 @@ int main()
 }
 ```
 
+Des exercices simples pour aborder la syntaxe ➡ [Exercices en langage C++ Developpez.com](https://cpp.developpez.com/tutoriels/exercice-corriges-ihm-debutant/)
 
 ## Phase 2 : Introduction à Git
 
