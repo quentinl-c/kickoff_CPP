@@ -106,6 +106,7 @@ Suivre la démonstration de l'enseignant ...
 
 
 ### Etape 5 : Connexion via Visual Studio
+[code à copier](https://gist.github.com/quentinl-c/23c85249a8007b3ba550dd57dcb8853d)
 
 
 ### Etape 6 : Communiquer avec la BD via ADO.NET
