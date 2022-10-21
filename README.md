@@ -7,7 +7,7 @@
 
 ### ✅ Visual Studio 2019 Community Ed.
 Le lien de téléchargement se trouve sur la plateforme Azure.
-
+![download page](./assets/vs_download.png)
 
 Avant de lancer l'installation, assurez-vous d'avoir sélectionné les options suivantes :
 
@@ -16,8 +16,7 @@ Avant de lancer l'installation, assurez-vous d'avoir sélectionné les options s
 ![options 2](./assets/options2.png)
 ### ✅ SQL Server
 Le lien de téléchargement se trouve sur la plateforme Azure.
-
-
+![download page](./assets/sqlserver_download.png)
 
 ### ✅ Microsoft SQL Server Management Studio
 
