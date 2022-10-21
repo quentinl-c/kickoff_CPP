@@ -52,6 +52,7 @@ int main()
 }
 ```
 
+Des exercices simples pour aborder la syntaxe ➡ [Exercices en langage C++ Developpez.com](https://cpp.developpez.com/tutoriels/exercice-corriges-ihm-debutant/)
 
 ## Phase 2 : Introduction à Git
 
@@ -85,10 +86,11 @@ Suivre la démonstration de l'enseignant ...
 
 ### 📚 Ressoures :
 
-
+* Cours : Introduction à Git
+* [Doc complète en ligne](https://git-scm.com/doc)
 
 ## Phase 3 : Utilisation de SQL Server
-
+> Suivre la démonstration de l'enseignant.
 
 ### Etape 1 : Connexion à SQL Server via MSQL Server Management
 
@@ -103,18 +105,20 @@ Suivre la démonstration de l'enseignant ...
 
 
 ### Etape 5 : Connexion via Visual Studio
+[code à copier](https://gist.github.com/quentinl-c/23c85249a8007b3ba550dd57dcb8853d)
 
 
 ### Etape 6 : Communiquer avec la BD via ADO.NET
 
 
 ### 📚 Ressources :
-
-
+* Doc d'installation fournie
+* [Aperçu d'ADO.NET](https://docs.microsoft.com/fr-fr/dotnet/framework/data/adonet/ado-net-overview)
 
 ## Phase 4 : Notre première interface graphique
-
 
 Suivre la démonstration de l'enseignant ...
 
 
+### 📚 Ressources :
+* [Create C++ Windows Forms application in Visual Studio 2017](https://social.msdn.microsoft.com/Forums/en-US/a9529502-6304-4aa6-90ee-0757ab258d87/create-c-windows-forms-application-in-visual-studio-2017?forum=winforms)
